@@ -8,7 +8,7 @@ Normal install via Composer.
 
 ## Usage
 
-Call the ``run()`` method and pass the api key, the api secret, the method name, and an array of arguments:
+Call the ``run()`` method and pass the api key, the request type (GET, POST, DELETE), the method URI, and an array of arguments:
 
 ```php
 use Travis\IterableAPI;
