@@ -1,0 +1,13 @@
+{
+    "name": "travis/iterable",
+    "description": "A PHP package for working w/ the Iterable API.",
+    "license": "MIT",
+    "repositories": [],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Travis\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
